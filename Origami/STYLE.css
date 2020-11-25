@@ -1,0 +1,31 @@
+h1{
+    color:#fc0505;
+
+}
+.header{
+    background-color:#7cf00f;
+    display:flex;
+    justify-content: space-between;
+    align-items:center;
+}
+.grid{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:space-evenly;
+}
+.Footer{
+    display:flex;
+    justify-content:flex-end;
+}
+p,h2{
+    text-align:center;
+}
+body{
+    background-color:#82E0AA;
+
+}
+.Menu{
+    display:flex;
+    font-size:20px;
+    font-weight: 400;
+}
